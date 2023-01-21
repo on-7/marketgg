@@ -1,3 +1,6 @@
 [submodule "marketgg-client"]
 	path = marketgg-client
 	url = https://github.com/nhn-on7/marketgg-client.git
+[submodule "marketgg-gateway"]
+	path = marketgg-gateway
+	url = https://github.com/nhn-on7/marketgg-gateway.git
