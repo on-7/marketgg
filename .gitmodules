@@ -7,3 +7,6 @@
 [submodule "marketgg-auth"]
 	path = marketgg-auth
 	url = https://github.com/nhn-on7/marketgg-auth.git
+[submodule "marketgg-shop"]
+	path = marketgg-shop
+	url = https://github.com/nhn-on7/marketgg-shop.git
