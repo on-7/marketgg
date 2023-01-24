@@ -10,3 +10,6 @@
 [submodule "marketgg-shop"]
 	path = marketgg-shop
 	url = https://github.com/nhn-on7/marketgg-shop.git
+[submodule "marketgg-batch"]
+	path = marketgg-batch
+	url = https://github.com/nhn-on7/marketgg-batch.git
