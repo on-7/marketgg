@@ -13,3 +13,6 @@
 [submodule "marketgg-batch"]
 	path = marketgg-batch
 	url = https://github.com/nhn-on7/marketgg-batch.git
+[submodule "eggplant-delivery"]
+	path = eggplant-delivery
+	url = https://github.com/nhn-on7/eggplant-delivery.git
