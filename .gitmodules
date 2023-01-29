@@ -16,3 +16,6 @@
 [submodule "eggplant-delivery"]
 	path = eggplant-delivery
 	url = https://github.com/nhn-on7/eggplant-delivery.git
+[submodule "eggplant-delivery-schedule"]
+	path = eggplant-delivery-schedule
+	url = https://github.com/nhn-on7/eggplant-delivery-schedule.git
